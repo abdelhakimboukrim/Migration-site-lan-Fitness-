@@ -507,6 +507,7 @@ button:focus-visible {
   padding: 48px 0 32px;
   background-color: #0F1B2D;
   color: #FFFFFF;
+  margin-top: 80px;
 }
 
 .pied-haut {
