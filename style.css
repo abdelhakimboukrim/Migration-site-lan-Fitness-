@@ -546,3 +546,17 @@ button:focus-visible {
   font-size: 13px;
   color: #94A3B8;
 }
+
+.formm > input , textarea {
+  padding: 20px;
+border-radius:  5px;
+border: 1px groove black;
+}
+.mainborder {
+  border : 1px solid black ;
+  border-radius: 20px;
+  padding: 20px;
+ width: 900px ;
+ margin: auto;
+ background-color: #ff8c4420 ;
+}
