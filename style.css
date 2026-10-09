@@ -185,7 +185,7 @@ button:focus-visible {
   width: 10px;
   height: 10px;
   margin-left: 8px;
-  background-color: #FF6B2C;
+ 
   border-radius: 50%;
 }
 
@@ -547,16 +547,29 @@ button:focus-visible {
   color: #94A3B8;
 }
 
+
 .formm > input , textarea {
   padding: 20px;
 border-radius:  5px;
-border: 1px groove black;
+border: 1px solid orange;
+height: 40px;
+ font-size: larger; 
+ font-family: 'Inter', Arial, sans-serif ;
 }
+
 .mainborder {
-  border : 1px solid black ;
+  border : 2px solid orange;
   border-radius: 20px;
   padding: 20px;
  width: 900px ;
  margin: auto;
  background-color: #ff8c4420 ;
+}
+
+.logoicone {
+  width: 60px;
+  height: 60px;
+  
+  border-radius: 8px;
+  
 }
