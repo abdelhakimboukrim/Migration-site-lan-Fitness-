@@ -551,6 +551,7 @@ button:focus-visible {
 .formm > input , textarea {
   padding: 20px;
 border-radius:  5px;
+width: 200px;
 border: 1px solid orange;
 height: 40px;
  font-size: larger; 
@@ -560,10 +561,10 @@ height: 40px;
 .mainborder {
   border : 2px solid orange;
   border-radius: 20px;
-  padding: 20px;
- width: 900px ;
+ padding: 20px;
+ width: 600px ;
  margin: auto;
- background-color: #ff8c4420 ;
+ background-color: #d15e1620 ;
 }
 
 .logoicone {
